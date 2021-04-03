@@ -9,6 +9,8 @@ output: html_document
 require(tidyverse)
 require(tigerstats)
 triUmp <-read.csv(file="triUmpsal.csv",header=TRUE)
+triumpF<- filter(triUmp,gender=='f')
+
 ```
 
 # Introduction
