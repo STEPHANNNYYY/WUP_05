@@ -71,4 +71,4 @@ The odds ratio 1.543902 means women who got the drug were about 1.5 times more l
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The question was is the drug effective for females. Data shows it was not effective. In conclusion it failed the clinical trials to prevent women from getting aids.
